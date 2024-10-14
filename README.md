@@ -6,7 +6,7 @@
 This Project includes the Covid-19 Country wise information. In this we have all the information related to Active Cases, Death Cases, Confirmed Cases and Recovered Cases. It consist of total 187 Countries and shows the comparison between the countries based on the Covid Data. From this we can find that The United States had maximum confirmed cases followed by Brazil whereas Brazil had more recovered cases followed by US. This Project is helpful in gaining information about how many country suffered from Corona Virus and to whom it affect the most and to whom the least, which country has recovered earlier and which one later and etc. This Project will give you numerous information about the Covid-19 Country wise.
 
 <p align="center">
-<a><img src="https://github.com/Ritika821/Country-Covid-19-Tableau-Dashboard/blob/main/Graphs/Corona%20Virus.jpeg" width="700" height="400">
+<a><img src="file:///C:/Users/RITIKA%20SINGH/OneDrive/Pictures/Documents/covid19dashboard.html" width="700" height="400">
 </a></p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
