@@ -23,6 +23,16 @@ This Project includes the Covid-19 Country wise information. In this we have all
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+## Dashboard :
+
+<p>
+  <a href="https://ritikatableaudashboard.w3spaces-preview.com/countrycovid19dashboard.html"><img src="Graphs/Dashboard.png"/>
+  </a>
+</p>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 ## Project KPI :
 
 In this project, the generated Measures show the total active cases is 6.4M, the total confirmed cases is 16.5M, the total death cases is 0.7M and the total recovered cases is 9.5M which was displayed in the form of KPI. From this, I came to know that out of total confirmed cases, 57.4% were recovered, 38.6% were active and 4.0% were dead. It means the medical facilities development were in the fast track that leads to lesser death than recovered.
