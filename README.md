@@ -26,7 +26,7 @@ This Project includes the Covid-19 Country wise information. In this we have all
 ## Dashboard :
 
 <p>
-  <a img src="file:///C:/Users/RITIKA%20SINGH/OneDrive/Pictures/Documents/covid19dashboard.html">
+  <a href = "https://public.tableau.com/views/CountryCovid-19Dashboard/Country-wiseCovid-19Dashboard?:showVizHome=no&:embed=true"><img src="https://github.com/Ritika821/Country-Covid-19-Tableau-Dashboard/blob/main/Graphs/Dashboard.png"/>
   </a>
 </p>
 
