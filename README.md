@@ -26,7 +26,7 @@ This Project includes the Covid-19 Country wise information. In this we have all
 ## Dashboard :
 
 <p>
-  <a src="file:///C:/Users/RITIKA%20SINGH/OneDrive/Pictures/Documents/covid19dashboard.html"><img src="Graphs/Dashboard.png"/>
+  <a img src="file:///C:/Users/RITIKA%20SINGH/OneDrive/Pictures/Documents/covid19dashboard.html">
   </a>
 </p>
 
